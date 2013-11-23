@@ -15,7 +15,7 @@ Uvedené příkazy předpokládají, že jste v kořenové složce projektu.
 		chmod 777 temp/ log/
 		chmod +x run.sh
 
-3. Načtení struktury databáze ze souboru `db_struct.sql`
+3. Načtení struktury databáze ze souboru [db_struct.sql](db_struct.sql)
 4. Nastavení přístupu k databázi
 	V souboru `app/config/config.neon` v sekci `nette/database` nastavte údaje pro přístup k databázi.
 

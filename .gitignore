@@ -1,0 +1,11 @@
+*.*~
+log/*
+temp/*
+vendor/*
+!vendor/others
+
+.DS_Store
+nbproject/*
+!.gitignore
+!.htaccess
+!web.config
